@@ -14,7 +14,7 @@ Summarize your insights at bottom of notebook
 Notebook should have professional polish
 In other words, imagine you are presenting it on the job.
 
-## Challenges
+
 
 
 
@@ -23,5 +23,3 @@ In other words, imagine you are presenting it on the job.
 ## Time Spent: 
 
 
-
-## Collaborations
